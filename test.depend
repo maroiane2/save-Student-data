@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701797576 source:c:\users\devop\onedrive\desktop\small projects in langage c++\constructors\getters & setters\booktest\test\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

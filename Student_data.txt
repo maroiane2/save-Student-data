@@ -1,0 +1,20 @@
+Name: mrwan
+note1: 13
+note2: 6
+note Moyenne: 9
+-----------------
+Name: a
+note1: 20
+note2: 20
+note Moyenne: 61111
+-----------------
+Name: q
+note1: 20
+note2: 20
+note Moyenne: 1111
+-----------------
+Name: mrwan
+note1: 12
+note2: 14
+note Moyenne: 13
+-----------------
