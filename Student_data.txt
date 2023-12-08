@@ -3,15 +3,15 @@ note1: 13
 note2: 6
 note Moyenne: 9
 -----------------
-Name: a
+Name: Test
 note1: 20
 note2: 20
-note Moyenne: 61111
+note Moyenne: 20
 -----------------
-Name: q
+Name: test
 note1: 20
 note2: 20
-note Moyenne: 1111
+note Moyenne: 20
 -----------------
 Name: mrwan
 note1: 12
